@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maxdgws
+- 👋 Hi, I’m @Maxdgws, and was born in Ukraine on town Dnipro
 - 👀 I’m interested in programming and engineering
 - 🌱 I’m currently learning Reykjavik University at the Faculty of Programming
 - 💞️ I’m looking to collaborate nobody
